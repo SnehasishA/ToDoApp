@@ -1,0 +1,7 @@
+{
+  "name": "IntelliTask - AI-Powered To-Do App",
+  "description": "A collaborative to-do application for individuals and teams, featuring AI-powered summaries, schedule optimization, and voice commands. Manage tasks, set priorities, and sync with your calendar effortlessly.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
